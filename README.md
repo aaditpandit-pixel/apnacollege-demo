@@ -1,3 +1,3 @@
 # apnacollege-demo
 My first repository.
-/nAuthor - Aadit Pandit
+Author - Aadit Pandit
