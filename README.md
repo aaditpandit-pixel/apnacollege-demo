@@ -1,3 +1,3 @@
 # apnacollege-demo
-My first repository.
+My First Git Repository.
 Author - Aadit Pandit
