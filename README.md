@@ -1,4 +1,4 @@
 # apnacollege-demo
 My First Git Repository.
 <br>
-Author - Aadit Pandit
+Author - Aadit Pandit (CS : SY)
